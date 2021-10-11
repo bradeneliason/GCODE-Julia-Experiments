@@ -1,0 +1,4 @@
+[deps]
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+GcodeParser = "62e9c5db-4b94-4124-bf6e-8488b3d8d26b"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
